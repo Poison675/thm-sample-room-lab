@@ -1,0 +1,7 @@
+Educational and training use only.
+
+This repository is a portfolio sample. It contains intentional security
+vulnerabilities. Run it only on loopback (127.0.0.1). Do not expose it to a
+public network or use it in production.
+
+Author: Aidan Veselka (https://github.com/Poison675)
